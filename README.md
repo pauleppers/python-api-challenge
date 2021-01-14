@@ -1,5 +1,11 @@
-
+﻿
 ﻿# Python API Weather and Analysis
+
+## python-api-challenge
+
+Weather and Vacation program using APIs, linear regression heat maps
+
+
 
 Inside the two folders is either `WeatherPy.ipynb` or `VacationPy.ipynb` file per the respective folder name. These are the main scripts to run for each analysis.
 
@@ -36,7 +42,7 @@ Program does the following:
 * Include a print log of each city as it's being processed with the city number and city name.
 * Save a CSV of all retrieved data and a PNG image for each scatter plot.
 
-### Part II - VacationPy
+## Part II - VacationPy
 
 Use jupyter-gmaps and the Google Places API.
 
@@ -56,7 +62,4 @@ Use jupyter-gmaps and the Google Places API.
 * Using Google Places API we find the first hotel for each city located within 5000 meters of the coordinates.
 
 * Plot the hotels on top of the humidity heatmap with each pin containing the **Hotel Name**, **City**, and **Country**.
-=======
-# python-api-challenge
-Weather and Vacation program using APIs, linear regression heat maps
->>>>>>> 880ceed1b1f485d8accfc64d0d56180444123b16
+
