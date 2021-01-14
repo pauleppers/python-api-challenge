@@ -1,5 +1,6 @@
 ﻿
-﻿# Python API Weather and Analysis
+﻿
+# Python API Weather and Analysis
 
 ## python-api-challenge
 
