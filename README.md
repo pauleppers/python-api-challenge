@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿# Python API Homework 
 
 Inside the two folders is either `WeatherPy.ipynb` or `VacationPy.ipynb` file per the respective folder name. These are the main scripts to run for each analysis.
@@ -55,3 +56,7 @@ Use jupyter-gmaps and the Google Places API.
 * Using Google Places API we find the first hotel for each city located within 5000 meters of the coordinates.
 
 * Plot the hotels on top of the humidity heatmap with each pin containing the **Hotel Name**, **City**, and **Country**.
+=======
+# python-api-challenge
+Weather and Vacation program using APIs, linear regression heat maps
+>>>>>>> 880ceed1b1f485d8accfc64d0d56180444123b16
