@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-﻿# Python API Homework 
+
+﻿# Python API Weather and Analysis
 
 Inside the two folders is either `WeatherPy.ipynb` or `VacationPy.ipynb` file per the respective folder name. These are the main scripts to run for each analysis.
 
